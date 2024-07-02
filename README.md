@@ -1,1 +1,2 @@
 # CodeClauseInternship_PersonalityPredictionSystemviaCVAnalysis
+Developed an AI system in Python using deep reinforcement learning frameworks to predict personality traits from CVs. Utilize NLP techniques for sentiment analysis, linguistic pattern recognition, and personality models to assess traits like extroversion, conscientiousness, and openness based on educational background, work experience, skills, and achievements extracted from resumes.
